@@ -1,0 +1,6 @@
+C:\_myGit\Notes\Notes\Notes\bin\Debug\Notes.exe.config
+C:\_myGit\Notes\Notes\Notes\bin\Debug\Notes.exe
+C:\_myGit\Notes\Notes\Notes\bin\Debug\Notes.pdb
+C:\_myGit\Notes\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\_myGit\Notes\Notes\Notes\obj\Debug\Notes.exe
+C:\_myGit\Notes\Notes\Notes\obj\Debug\Notes.pdb
